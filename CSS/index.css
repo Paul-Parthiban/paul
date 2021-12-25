@@ -17,6 +17,14 @@ body {
     .about {
         padding-top: 10px;
     }
+
+    .paul-image {
+        width: 250px;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
 }
 
 .modal-button-triggers button{
