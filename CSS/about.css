@@ -150,6 +150,10 @@ select {
         height: 100%;
         width: 100%;
     }
+    
+    .AWMS, .JFK, .BSS {
+        width: 300px;
+    }
 }
 
 
