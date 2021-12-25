@@ -145,14 +145,22 @@ select {
     width: 300px;
 }
 
+.AWMS {
+    width: 400px;
+}
+
 @media screen and (max-width: 1028px) {
     .content {
         height: 100%;
         width: 100%;
     }
-    
+
     .AWMS, .JFK, .BSS {
-        width: 300px;
+        width: 200px;
+    }
+
+    body {
+        overflow-x: hidden;
     }
 }
 
